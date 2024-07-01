@@ -1,0 +1,17 @@
+*.log
+*.tmp
+*.bak
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+env/
+ENV/
+.venv/
+.virtualenv/
+.DS_Store
+.idea/
+.vscode/
+results.txt
+domains.txt
+start

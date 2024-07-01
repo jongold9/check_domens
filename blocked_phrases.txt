@@ -1,0 +1,43 @@
+# Английский
+Attention! Access to the resource is denied!
+Access Denied
+Resource restricted
+Blocked site
+Site is blocked
+Web page is not available
+Page blocked
+Access to the website is restricted
+Website access denied
+Restricted Access
+This site is restricted
+
+# Русский
+Доступ запрещен
+Доступ к ресурсу ограничен
+Доступ заблокирован
+Доступ к сайту заблокирован
+Доступ к веб-сайту запрещен
+Доступ к странице запрещен
+Доступ к странице ограничен
+Контент заблокирован
+Этот сайт заблокирован
+Эта страница заблокирована
+
+# Украинский
+Увага! Доступ до ресурсу не може бути надано!
+Доступ до ресурсу обмежено
+Сайт заблоковано
+Доступ до сайту заблоковано
+
+# Испанский
+¡Atención! El acceso al recurso está denegado!
+Acceso Denegado
+El recurso está restringido
+Sitio bloqueado
+El sitio está bloqueado
+La página web no está disponible
+Página bloqueada
+El acceso al sitio web está restringido
+Acceso al sitio web denegado
+Acceso Restringido
+Este sitio está restringido
